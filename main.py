@@ -139,9 +139,6 @@ api.add_resource(user_following,"/users/user_following")
 api.add_resource(user_info, "/users/user_info")
 api.add_resource(search_following,"/users/search_following")
 api.add_resource(search_followers)
-# I dont have anything else planned at this momment
-# ok
-# what do I do with that
 
 # http://website.com/anthony
 class Name(Resource):
